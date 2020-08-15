@@ -15,3 +15,4 @@ myenv
 
 ## Package(s)
 sql-query
+tide-query
