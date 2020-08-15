@@ -12,3 +12,6 @@ Python
 
 ## VirtualEnv
 myenv
+
+## Package(s)
+sql-query
